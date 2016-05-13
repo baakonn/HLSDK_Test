@@ -1,6 +1,7 @@
 package com.ihuilian.example;
 
 import android.content.Context;
+import android.content.Intent;
 import android.hardware.Sensor;
 import android.hardware.SensorManager;
 import android.opengl.GLSurfaceView;
@@ -262,14 +263,15 @@ public class MainActivity extends PLView{
 		startNew.setOnClickListener(new OnClickListener() {
 			@Override
 			public void onClick(View v) {
-				/*Intent intent = new Intent(context, TestActivity.class);
+				Intent intent = new Intent(context, TestActivity.class);
 				intent.putExtra("id", "100185");
-				startActivity(intent);*/
-				if (mRegisteredSensor) {
+				startActivity(intent);
+
+				/*if (mRegisteredSensor) {
 					onUnregister();
 				} else {
 					initSensor();
-				}
+				}*/
 			}
 		});
 
