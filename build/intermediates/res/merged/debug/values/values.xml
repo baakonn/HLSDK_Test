@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HLAndroid_SDK</string>
+    <string name="hello_world">Hello world!</string>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Light.NoTitleBar">
+
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="progress_dialog_Style" parent="android:style/Theme.Dialog">
+        <item name="android:indeterminateDrawable">@drawable/progress</item>
+    </style>
+</resources>

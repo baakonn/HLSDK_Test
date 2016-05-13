@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\android_SDK_workspace\\HLAndroid_SDK\\build\\intermediates\\res\\merged\\debug\\layout\\progress_dialog.xml",
+        "source": "E:\\android_SDK_workspace\\HLAndroid_SDK\\res\\layout\\progress_dialog.xml"
+    },
+    {
+        "merged": "E:\\android_SDK_workspace\\HLAndroid_SDK\\build\\intermediates\\res\\merged\\debug\\layout\\panorma_view.xml",
+        "source": "E:\\android_SDK_workspace\\HLAndroid_SDK\\res\\layout\\panorma_view.xml"
+    },
+    {
+        "merged": "E:\\android_SDK_workspace\\HLAndroid_SDK\\build\\intermediates\\res\\merged\\debug\\layout\\panorma_view_test.xml",
+        "source": "E:\\android_SDK_workspace\\HLAndroid_SDK\\res\\layout\\panorma_view_test.xml"
+    }
+]

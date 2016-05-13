@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\android_SDK_workspace\\HLAndroid_SDK\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\p2.jpg",
+        "source": "E:\\android_SDK_workspace\\HLAndroid_SDK\\res\\drawable-xhdpi\\p2.jpg"
+    },
+    {
+        "merged": "E:\\android_SDK_workspace\\HLAndroid_SDK\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\spherical_pano.jpg",
+        "source": "E:\\android_SDK_workspace\\HLAndroid_SDK\\res\\drawable-xhdpi\\spherical_pano.jpg"
+    },
+    {
+        "merged": "E:\\android_SDK_workspace\\HLAndroid_SDK\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\p5.png",
+        "source": "E:\\android_SDK_workspace\\HLAndroid_SDK\\res\\drawable-xhdpi\\p5.png"
+    },
+    {
+        "merged": "E:\\android_SDK_workspace\\HLAndroid_SDK\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hotspot.png",
+        "source": "E:\\android_SDK_workspace\\HLAndroid_SDK\\res\\drawable-xhdpi\\hotspot.png"
+    },
+    {
+        "merged": "E:\\android_SDK_workspace\\HLAndroid_SDK\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\android_SDK_workspace\\HLAndroid_SDK\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\android_SDK_workspace\\HLAndroid_SDK\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\p1.jpg",
+        "source": "E:\\android_SDK_workspace\\HLAndroid_SDK\\res\\drawable-xhdpi\\p1.jpg"
+    },
+    {
+        "merged": "E:\\android_SDK_workspace\\HLAndroid_SDK\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\p3.jpg",
+        "source": "E:\\android_SDK_workspace\\HLAndroid_SDK\\res\\drawable-xhdpi\\p3.jpg"
+    }
+]

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="23.3.0"><source path="E:\android_SDK_workspace\HLAndroid_SDK\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\assets"/></dataSet><dataSet config="main"><source path="E:\android_SDK_workspace\HLAndroid_SDK\assets"/><source path="E:\android_SDK_workspace\HLAndroid_SDK\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\android_SDK_workspace\HLAndroid_SDK\build-types\debug\assets"/></dataSet></merger>
